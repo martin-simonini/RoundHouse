@@ -1,0 +1,40 @@
+{
+  "act_tab1":"Regarder Manati",
+  "act_tab2":"Promenades",
+  "act_tab3":"Kayak",
+  "act_tab4":"Sauna",
+
+  "act_MW_t1":"Regarder Manati",
+  "act_MW_p1":"Ponga tu Texto aca",
+
+  "act_Hikes_t1": "Promenades",
+  "act_Hikes_p1": "Sentier jusque “Ak’Tenamit” vous arrivez à une branche de la rivière et au projet Ak’Tenamit (Projet de développement communautaire). Aprox. 20 min.",
+  "act_Hikes_p2": "Aldea Tatin (uniquement avec guide)",
+  "act_Hikes_p3": "Promenade à travers la jungle, par un sentier bien indiqué, jusqu'à une grotte et une cascade (aprox. 30 min), continuant jusqu'au village indigène (45 min) puis jusque Livingston, le village Garífuna caribéen (aprox. 4-5 heures).",
+  "act_Hikes_p4": "Retour en bateau public ou notre",
+  "act_Hikes_p5":"Dans La Jungle de Nuit (min. 2p.)",
+  "act_Hikes_p6":"Notre guide vous emmène vivre l'expérience de la jungle de nuit pour que vous puissiez écouter et observer la vie nocturne.",
+  "act_Hikes_p7":"Emmenez votre propre lampe-torche",
+
+  "act_Kayak_t1": "Tours de kayak",
+  "act_Kayak_t2": "Options:",
+  "act_Kayak_t3": "CANYON DE LIVINGSTON",
+  "act_Kayak_t4": "PROMENADE NOCTURNE (MINIMUM 2 PERS.)",
+  "act_Kayak_p1": "Vous pouvez explorer la beauté de ce lieu en prenant un kayak, par la rivière et ses différentes branches, seul, par vos propres moyens. Nous vons donnerons les meilleures indications.
+                  Possibilité de louer par heure ou toute la journée.
+                  PARC NACIONAL BIOTOPO CHOCÓN MACHACAS.
+                  C'est un lieu merveilleux pour se promener entre les jardins de nénuphars, écouter et voir les singes hurleurs, beaucoup d'oiseaux, des lamantins (Si vous avez beaucoup de chance et que vous réussissez à les identifier).",
+  "act_Kayak_p2": "-par vos propres moyens, en kayak aller et retour (aprox. 4hs par trajet)",
+  "act_Kayak_p3": "-même tour, avec notre guide ",
+  "act_Kayak_p4": "-tout le tour en lancha, sans kayaks.",
+  "act_Kayak_p5": "Vous pouvez voir des oiseaux, la végétation dense, des pêcheurs, à ciel ouvert.",
+  "act_Kayak_p6": "Options:",
+  "act_Kayak_p7": "-en kayak, par vos propres moyens, aller (aprox. 3hs de trajet)",
+  "act_Kayak_p8": "-aller en kayak, retour en lancha (publique ou la nôtre), laissant le kayak à Livingston.",
+  "act_Kayak_p9": "Dans la mesure où le temps le permet et surtout lors de la pleine lune, nous vous emmenons au Canyon de Livingston ou sur d'autres branches de la rivière, pour profiter de la vue du ciel étoilé, du calme de la nuit, pour nager et pourquoi pas? Profiter d'une coupe à bord!",
+
+  "act_tem_p1":"Es un Sauna Maya. Un lugar para sudar, relajarse, abrir tu corazón, tu mente y tus poros.
+                Alternando con una zambullida en el río, es muy saludable.
+                Mejor ANTES de la cena.
+                (Encendido aprox. 5pm)"
+}

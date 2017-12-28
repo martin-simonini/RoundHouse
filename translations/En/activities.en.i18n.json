@@ -1,0 +1,41 @@
+{
+  "act_tab1":"Manati Watching",
+  "act_tab2":"Hikes",
+  "act_tab3":"Kayak",
+  "act_tab4":"Sauna",
+
+  "act_MW_t1":"Manati Watching",
+  "act_MW_p1":"The Round House is specially located in an area where wild Manti's live. With some luck and patience one can see them popping up for air.
+  There is one Manti in particular, we've named Captain Hook, that likes to sleep right in front of the Round House.",
+
+
+  "act_Hikes_t1": "Hikes",
+  "act_Hikes_p1": "Trails to “Ak’Tenamit” will take you to the start of the river and to Ak’Tenamit (Community development project). Aprox. 20 min.",
+  "act_Hikes_p2": "Village Tatin(guide required)",
+  "act_Hikes_p3": "You will walk through the jungle on well marked paths until reaching a cave (Tiger cave) and a waterfall(aprox. 30 min), and then you will continue until reaching a indigenous village (Village Tatin) (45 min) and then to Livingston, a Caribbean village home to the Garufunas (aprox. 4-5 hours).",
+  "act_Hikes_p4": "Return by boat, public or ours",
+  "act_Hikes_p5":"Night walk through the jungle (minimum of 2 people)",
+  "act_Hikes_p6":"We will take you with one of our guides through the jungle at night so you can experience the nocturnal life of the animals, and hear the different sounds the animals make.",
+  "act_Hikes_p7":"Bring your own flashlight.",
+
+  "act_Kayak_t1": "Kayak Tours",
+  "act_Kayak_t2": "Options:",
+  "act_Kayak_t3": "Through the Canyon to Livingston",
+  "act_Kayak_t4": "Full moon tour(minimum 2 people)",
+  "act_Kayak_t5": "  National park Biotopo CHOCÓN MACHACAS. A wonderful place, where you can glide through lotus gardens, hearing (and maybe spotting)howlers monkeys, birds, and manatees.",
+  "act_Kayak_p1": "You can explore the the natural beauty that Rio Dulce has to offer by grabbing a kayak and going off on your own. Below we will give you the best places
+                  Kayak optiones are per hour or all day.",
+  "act_Kayak_p2": "On your own, there and back (Approximately a 4 hour round trip)",
+  "act_Kayak_p3": "Same tour, but with our guide",
+  "act_Kayak_p4": "The entire tour is on boat, without kayaks.",
+  "act_Kayak_p5": "Birdwatching, lush vegetation, fishermen and open skies.",
+  "act_Kayak_p6": "Options:",
+  "act_Kayak_p7": "-In Kayak, on your own (Approximately 3 hours)",
+  "act_Kayak_p8": "-Go there on kayak, then return on boat, public or ours. You would leave the Kayak in Livingston",
+  "act_Kayak_p9": "If the weather allows it, and specially on full moon nights, we take you through the canyon to enjoy the starry skies, do some animal spotting, have a swim, and, why not, have a nice glass of wine on board",
+
+  "act_tem_p1":"A Mayan Sauna where you can sweat, relax, and open your mind, heart, and pores
+                Combined with jumping in the water, its relaxing and healthy.
+                Best done before dinner.
+                Turned on at about 5:00pm (17:00 hours)"
+}

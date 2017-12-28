@@ -1,0 +1,21 @@
+.contactContainer{
+  text-align: center;
+  font-size: 2em;
+  color: white;
+  height: 100vh;
+}
+.socail-links{
+  color: white;
+}
+.socail-links > a{
+  margin: 3px;
+  text-decoration: none;
+  color: white;
+}
+.socail-links > a:hover{
+  color: blue;
+}
+.largeFont{
+  font-size: 2.5em !important;
+
+}

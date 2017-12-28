@@ -1,0 +1,22 @@
+<head>
+  <title>RoundHouse</title>
+</head>
+<template name="index">
+  <div class="indexContainer">
+  <div class="gallery">{{> indexGallery}}</div>
+  {{#if displayNavbar}}<!-- displayNavbar js code is in index-gallery.js file -->
+    {{> navBar}}
+  {{/if}}
+  <!-- All text below is example text and is for testing purposes only!!! -->
+  <div class="index-text">
+    <p>{{_ "index_1st_p"}}</p>
+    <div class="index_awards">
+      <img src="/images/index/bookingAward.jpg" class="index-imgs">
+      <img src="/images/index/TripAdvisorReviews.png">
+      <img src="/images/index/TripAdvisorCE2017.png">
+      <img src="/images/index/TripAdvisorTC2015.png">
+      <img src="/images/index/TripAdvisorRec.png">
+    </div>
+</div>
+</div>
+</template>

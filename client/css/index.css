@@ -1,0 +1,18 @@
+.index-text{
+  position: absolute;
+  top: 750px;
+  background: rgba(101, 101, 101, 0.92);
+  color: rgb(204, 203, 203);
+  margin-top: 0;
+  font-size: 2em;
+}
+.gallery{
+  margin-bottom: 0;
+}
+.indexContainer{
+  background: rgba(140, 140, 140, 0.92) !important;
+}
+.index-imgs{
+  width: 15%;
+  height: 15%;
+}

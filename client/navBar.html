@@ -1,0 +1,31 @@
+<template name="navBar">
+  <div id="custom-bootstrap-menu" class="navbar navbar-default " role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header"><a class="navbar-brand" href="/">The Round House</a>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse navbar-menubuilder">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/Habitaciones">{{_ "rooms"}}</a>
+                </li>
+                <li><a href="/activities">{{_ "activities"}}</a>
+                </li>
+                <li><a href="/Gallery">{{_ "gallery"}}</a>
+                </li>
+                <li><a href="/Contact">{{_ "contact"}}</a>
+                </li>
+                <li>
+                  <a class="dropdown-toggle" type="button" data-toggle="dropdown">{{_ "languages"}}</a>
+                  <ul class="dropdown-menu ddm">
+                     <li><a href="#" class="Es">Español</a></li>
+                     <li><a href="#" class="En">English</a></li>
+                     <li><a href="#" class="Fr">Français</a></li>
+                     <li><a href="#" class="It">Italiano</a></li>
+                 </ul>
+              </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</template>

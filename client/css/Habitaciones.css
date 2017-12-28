@@ -1,0 +1,83 @@
+
+.rooms-super-container{
+  width: auto;
+  min-width: 100vw;
+  height: 100%;
+  padding:0;
+  margin: 0;
+  display: block;
+  float: left;
+}
+
+.rooms-container{
+  width: 20vw;
+  height: auto;
+  min-height: 40% !important;
+  border: 1px solid grey;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.rooms-header{
+  width: auto;
+  min-width: 100%;
+  height: 15%;
+  padding: 0;
+  margin: 0;
+  background-color:rgb(171, 171, 171);
+  color: white;
+  float: left;
+  text-align: center;
+}
+.rooms-img-container{
+  top: 0;
+  width: 100%;
+  height: 65%;
+  background-color: rgb(110, 110, 110);
+}
+.rooms-img{
+  width: 100%;
+  height: 80%;
+}
+
+
+.room-body{
+  background: rgbargba(101, 101, 101, 0.92);
+  height: 100%;
+  width: 100vw;
+
+}
+.rooms-h1{
+  text-align: center;
+  color: white;
+}
+.rooms-container{
+  border: 1px solid grey;
+  height: 500px;
+  width: 400px;
+}
+.img-container{
+  text-align: center;
+}
+.rooms-img{
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.rooms-text-container{
+  width: 100%;
+  min-height: 35%;
+  background-color: rgb(110, 110, 110);
+  text-align: center;
+  font-size: 1.75em;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+}
+.rooms-text-container>ul{
+  list-style: none;
+  color: rgb(219, 219, 219);
+  width: 100%;
+  height: 100%;
+  padding-top: 10px;
+}

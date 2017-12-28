@@ -1,0 +1,21 @@
+/*.room-body{
+  background: rgba(101, 101, 101, 0.92);
+  height: 100%;
+  border: 1px solid black;
+}
+.rooms-h1{
+  text-align: center;
+  color: white;
+}
+.rooms-container{
+  border: 1px solid grey;
+  height: 500px;
+  width: 400px;
+}
+.img-container{
+  text-align: center;
+}
+#bung-img{
+  border: 1px solid black;
+  border-radius: 5px;
+}*/

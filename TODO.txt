@@ -1,0 +1,40 @@
+MUST DO:
+
+  *Get images for camping (rooms page)
+  *make navbar mobile
+  *center navbar
+  *make a mobile version of the gallery where the images are bigger
+  *change bird watching to manti watching and info
+  *game area
+  *make mobile version of rooms page
+  *put correct conact information
+    *email
+    *WhatsApp
+    *facebook
+    *youtube?
+    *all other social media
+ *Get correct text for index page
+SHOULD DO:
+  *get gaby's final approval on the removal of the "RoundHouse title" on index page
+  *add flags emoji in language options
+  *Add fading effects to index gallery
+  *Make it so that if the internet is too slow the index gallery is just  a solid color
+  *make index page gallery images the height reliant on image size and screen size
+      >tbh idk what this means
+  *clean up rooms page code and get rid of unused  code
+
+
+
+
+
+Get away from the busy and electronic driven world to relax at The Round House.
+Located 45 minutes by boat from Rio Dulce and 30 minutes from Livingston, The Round House the perfect place for those looking to grab a beer and swim in the river.
+Reconnect with nature by hiking through the lush jungle or kayak down the beauty Rio Dulce.
+Observe animals in their natural habitat in bird and Manti watching tours, or just grab a cocktail and get a new tan! The Round House offers excellent food, top notch staff, and a place to meet new people, all at
+an affordable rate. Come visit us!
+
+
+The Round House is specially located in an area where wild Manti's live. With some luck and patience one can see them popping up for air.
+There is one Manti in particular, we've named Captain Hook, that likes to sleep right in front of the Round House.
+
+hammock

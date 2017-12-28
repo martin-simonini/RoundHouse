@@ -1,0 +1,64 @@
+.galleryContainer{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.gal{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 750px;
+  border: 1px solid black;
+  font-family: font-family: "Times New Roman", Times, Serif;
+  color: white;
+
+}
+.index-gallery-image{
+  z-index: -1;
+  position: absolute;
+  float: left;
+  float: top;
+  height: 750px;
+  width: 100%;
+
+}
+.block{
+  height: 100%;
+  text-align: center;
+  margin: 20px;
+  position: relative;
+}
+.block:before{
+  content: '\200B';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+  width: 50%;
+  padding: 10px 15px;
+}
+.index-gal-h1{
+  font-size: 5.5em; /*TODO: choose a good font and color*/
+}
+.link-options{
+  width: 75%;
+  position: absolute;
+  bottom: 10%;
+  margin-right: 12.5%;
+  margin-left: 12.5%;
+}
+.gallery-links{
+  font-size: 2em;
+  color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-decoration: none;
+
+}
+.gallery-links:hover{
+  text-decoration: none;
+}
